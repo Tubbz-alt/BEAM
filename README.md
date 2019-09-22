@@ -13,5 +13,6 @@ A workflow to connect McNeel's excellent multipurpose 3D modeller Rhinoceros wit
 
 Assign parameters, create families and move geometry across the platforms. MKS Beam comes with features targeted to assist designers in the creation of models that can fully deliver the creative intent along all the data needed to bring it into the digital era of Building Information Modelling.
 
+Current Version: BETA 0.1.1
 
 ![PLATFORMS](https://user-images.githubusercontent.com/53434612/62049248-b5bb2700-b206-11e9-8af2-996ebeaa3770.PNG)
