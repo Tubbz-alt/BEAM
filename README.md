@@ -6,7 +6,8 @@
 www.mksdtech.com/project-beam
 
 
-Enhancing BIM modelling
+Enhancing BIM modelling.
+
 With MKS Beam the distance between 3D modelling and BIM gets closer than ever before.
 
 A workflow to connect McNeel's excellent multipurpose 3D modeller Rhinoceros with the AEC industry standard Autodesk Revit.
