@@ -1,6 +1,6 @@
 ![BANNER](https://user-images.githubusercontent.com/53434612/62049141-83112e80-b206-11e9-8949-2f3d78663026.jpg)
 
-# Rhino to Revit interoperability tool
+# Rhino and Revit interoperability tool
 
 
 www.mksdtech.com/project-beam
