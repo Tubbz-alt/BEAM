@@ -1,0 +1,20 @@
+﻿{
+  "license": "",
+  "file_hash": null,
+  "name": "MKS",
+  "version": "0.7.0",
+  "description": "MKS Beam for Dynamo",
+  "group": "",
+  "keywords": null,
+  "dependencies": [],
+  "contents": "",
+  "engine_version": "2.0",
+  "engine": "dynamo",
+  "engine_metadata": "",
+  "site_url": "mksdtech.com",
+  "repository_url": "",
+  "contains_binaries": true,
+  "node_libraries": [
+    "MKS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
