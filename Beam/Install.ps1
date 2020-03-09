@@ -1,5 +1,3 @@
-#Powershell –ExecutionPolicy Bypass
-
 Get-ChildItem -Recurse | Unblock-File
 
 New-Item "$env:LOCALAPPDATA\Beam" -ItemType directory -Force | Out-Null
@@ -23,5 +21,3 @@ Copy-Item "Newtonsoft.Json.dll" "$env:LOCALAPPDATA\Beam\MKS\bin\"
 Copy-Item "MKS\pkg.json" "$env:LOCALAPPDATA\Beam\MKS\"
 Copy-Item "MKS\bin\MKS.dll" "$env:LOCALAPPDATA\Beam\MKS\bin\"
 Copy-Item "MKS\bin\MKS.customization.dll" "$env:LOCALAPPDATA\Beam\MKS\bin\"
-
-PAUSE
