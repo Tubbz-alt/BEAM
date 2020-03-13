@@ -17,4 +17,6 @@ Assign parameters, create families and move geometry across the platforms. MKS B
 
 Current Version: RC 1.0
 
+![Cladding](https://user-images.githubusercontent.com/53434612/76652614-dac69500-655e-11ea-865c-7e3d434d99f4.gif)
+
 ![platforms](https://user-images.githubusercontent.com/53434612/65444357-ca432680-de27-11e9-9104-d44f6198b37f.PNG)
