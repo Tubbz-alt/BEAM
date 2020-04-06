@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MKS</name>
+    </assembly>
+    <members>
+        <member name="T:MKS.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MKS.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MKS.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="T:MKS.BEAM">
+            <summary>
+            MKS BEAM FOR DYNAMO
+            mksdtech.com
+            </summary>
+        </member>
+        <member name="M:MKS.BEAM.History">
+            <summary>
+            Get the list of the .beam in BEAM Directory
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MKS.BEAM.Import(System.String)">
+            <summary>
+            BEAM ME UP!
+            Import geometry from a .beam
+            </summary>
+            <param name="beam">\Input the .beam name as a string</param>
+            <returns name="Geometry">Rhino object geometry</returns>
+            <returns name="Name">Rhino object name</returns>
+            <returns name="Layer">Rhino object layer</returns>
+            <returns name="Data">Additional data</returns>
+            <returns name="GUID">Rhino object guid</returns>
+            <returns name="Family">Object Family name</returns>
+            <returns name="Subcategory">Object Subcategory name</returns>
+            <returns name="Material">Rhino object material</returns>
+            <returns name="Color ARGB">Rhino object color</returns>
+            <returns name="Document Info">.beam Info</returns>
+            <returns name="Status">Status</returns>
+            <search>
+            beam, rhino, import
+            </search>
+        </member>
+    </members>
+</doc>
