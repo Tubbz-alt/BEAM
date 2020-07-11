@@ -1,7 +1,7 @@
 ![bbb](https://user-images.githubusercontent.com/53434612/76241070-42fa3b80-622c-11ea-89e2-ff1c254f9cea.png)
 
-
-# Rhino and Revit interoperability tool
+# BEAM
+## Rhino and Revit interoperability tool
 
 [![MKS BEAM](https://img.shields.io/badge/-BEAM-%2300AEF0)](https://mksdtech.com)
 [![MKS URSA](https://img.shields.io/badge/-URSA-%23FF00AA)](https://mksdtech.com)
